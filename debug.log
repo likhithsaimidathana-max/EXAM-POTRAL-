@@ -1,0 +1,5122 @@
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 29
+                    [question] => e,.3 ;l
+                    [option1] => e;/,e
+                    [option2] => el2wme
+                    [option3] => .l3ewd
+                    [option4] => ,.3w
+                    [correctanswer] => 2
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 28
+                    [question] => ;flef;l
+                    [option1] => 12345678
+                    [option2] => 2345678
+                    [option3] => 0987654
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 29
+                    [question] => 567op\][lkjdlewn lkm flijf
+                    [option1] => fkf
+                    [option2] => r3,m
+                    [option3] => r32
+                    [option4] => 3rm
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey] => 1s2mCtJK
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey] => VsnpdYZF
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 3
+                    [passkey] => wpmECjiL
+                )
+
+        )
+
+    [exam_id] => 29
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 29
+                    [question] => e,.3 ;l
+                    [option1] => e;/,e
+                    [option2] => el2wme
+                    [option3] => .l3ewd
+                    [option4] => ,.3w
+                    [correctanswer] => 2
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 28
+                    [question] => ;flef;l
+                    [option1] => 12345678
+                    [option2] => 2345678
+                    [option3] => 0987654
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 29
+                    [question] => 567op\][lkjdlewn lkm flijf
+                    [option1] => fkf
+                    [option2] => r3,m
+                    [option3] => r32
+                    [option4] => 3rm
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 3
+                    [passkey] => IZi81Yg3
+                )
+
+        )
+
+    [exam_id] => 29
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 29
+                    [question] => e,.3 ;l
+                    [option1] => e;/,e
+                    [option2] => el2wme
+                    [option3] => .l3ewd
+                    [option4] => ,.3w
+                    [correctanswer] => 2
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 28
+                    [question] => ;flef;l
+                    [option1] => 12345678
+                    [option2] => 2345678
+                    [option3] => 0987654
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 29
+                    [question] => 567op\][lkjdlewn lkm flijf
+                    [option1] => fkf
+                    [option2] => r3,m
+                    [option3] => r32
+                    [option4] => 3rm
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 3
+                    [passkey] => eGXAuuGo
+                )
+
+        )
+
+    [exam_id] => 29
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 31
+                    [question] => what is noun
+                    [option1] => noun is a thing or a place or a person name is called as noun
+                    [option2] => noun
+                    [option3] => pronoun
+                    [option4] => none
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => Z3dwM3tE
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => xBw5Morp
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => 6CK7JyTq
+                )
+
+        )
+
+    [exam_id] => 31
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 32
+                    [question] => 111
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 2
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 32
+                    [question] => 111
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 3
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 32
+                    [question] => 444
+                    [option1] => 5
+                    [option2] => 6
+                    [option3] => 7
+                    [option4] => 8
+                    [correctanswer] => 1
+                )
+
+            [3] => Array
+                (
+                    [section_id] => 32
+                    [question] => lojdl
+                    [option1] => 11
+                    [option2] => 11
+                    [option3] => 11
+                    [option4] => 11
+                    [correctanswer] => 3
+                )
+
+            [4] => Array
+                (
+                    [section_id] => 32
+                    [question] => this is english
+                    [option1] => 11
+                    [option2] => 11
+                    [option3] => 11
+                    [option4] => 11
+                    [correctanswer] => 2
+                )
+
+            [5] => Array
+                (
+                    [section_id] => 32
+                    [question] => this is likhith
+                    [option1] => 11
+                    [option2] => 11
+                    [option3] => 11
+                    [option4] => 11
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => Z2KLqmDn
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => 6ZM4YItC
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => HA7m32Tn
+                )
+
+        )
+
+    [exam_id] => 32
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 31
+                    [question] => swm
+                    [option1] => s,mq
+                    [option2] => sjq
+                    [option3] => sw
+                    [option4] => wjks
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => TGpSHlRT
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => FDxqV3NT
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => OuMz1985
+                )
+
+        )
+
+    [exam_id] => 31
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 34
+                    [question] => this is book
+                    [option1] => edf,ej
+                    [option2] => kjd
+                    [option3] => c esd.k
+                    [option4] => c.dkmc
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => PsNS3FXp
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => XgUZ0GCz
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => u9tLkdij
+                )
+
+        )
+
+    [exam_id] => 34
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 34
+                    [question] => this is book
+                    [option1] => d
+                    [option2] => d
+                    [option3] => d
+                    [option4] => v
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => nTAQvAov
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => wgpvsskA
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => I9KQCORp
+                )
+
+        )
+
+    [exam_id] => 34
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 35
+                    [question] => zmA
+                    [option1] => X,AM
+                    [option2] => XMX
+                    [option3] => X,
+                    [option4] => .LJ
+                    [correctanswer] => 4
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 36
+                    [question] => SYMBOL OF ADDITION
+                    [option1] => +
+                    [option2] => -
+                    [option3] => *
+                    [option4] => /
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => fKpQqhBN
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => gkvp4M7B
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => JxNyj404
+                )
+
+        )
+
+    [exam_id] => 35
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 37
+                    [question] => sdfgkl":
+                    [option1] => h
+                    [option2] => j
+                    [option3] => mk
+                    [option4] => ,
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => wLOatJWF
+                )
+
+        )
+
+    [exam_id] => 36
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => maths
+                    [question] => this is likhith
+                    [option1] => qjhsu
+                    [option2] => jmbdc
+                    [option3] => cs
+                    [option4] => cdmnc
+                    [correctanswer] => 4
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english
+                    [question] => this is english
+                    [option1] => 112
+                    [option2] => 22
+                    [option3] => 33
+                    [option4] => 44
+                    [correctanswer] => 2
+                )
+
+            [2] => Array
+                (
+                    [section_name] => english
+                    [question] => this is maths
+                    [option1] => 111
+                    [option2] => 111
+                    [option3] => 111
+                    [option4] => 111
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => z522
+                )
+
+        )
+
+    [exam_id] => 38
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => maths
+                    [question] => symbol of addtion
+                    [option1] => +
+                    [option2] => -
+                    [option3] => *
+                    [option4] => /
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => maths
+                    [question] => symbol of equal
+                    [option1] => +
+                    [option2] => -
+                    [option3] => =
+                    [option4] => ===
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => y010
+                )
+
+        )
+
+    [exam_id] => 39
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => maths
+                    [question] => e,wknlk
+                    [option1] => d,.3w
+                    [option2] => d.,2
+                    [option3] => d.,
+                    [option4] => d3
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => s861
+                )
+
+        )
+
+    [exam_id] => 39
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => what is english
+                    [option1] => english
+                    [option2] => maths
+                    [option3] => science
+                    [option4] => soclial
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english
+                    [question] => what is telugu
+                    [option1] => telugu
+                    [option2] => maths
+                    [option3] => english
+                    [option4] => science
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => d239
+                )
+
+        )
+
+    [exam_id] => 41
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ,md.e
+                    [option1] => ,esc
+                    [option2] => c,.d
+                    [option3] => edfm
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => r401
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => v913
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => a173
+                )
+
+        )
+
+    [exam_id] => 42
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => matha
+                    [question] => what is maths
+                    [option1] => +
+                    [option2] => /.v;,frl
+                    [option3] => r,m v
+                    [option4] => f.,rf
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => y116
+                )
+
+        )
+
+    [exam_id] => 43
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => maths
+                    [question] => symbol of addtion
+                    [option1] => +
+                    [option2] => -
+                    [option3] => *
+                    [option4] => /
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => i736
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => i662
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => d528
+                )
+
+        )
+
+    [exam_id] => 44
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => maths
+                    [question] => symbol of addtion
+                    [option1] => +
+                    [option2] => -
+                    [option3] => *
+                    [option4] => /
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => p542
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => a102
+                )
+
+        )
+
+    [exam_id] => 44
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => whai is ovel
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => r393
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => w143
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => x966
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => o167
+                )
+
+        )
+
+    [exam_id] => 45
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => what is k
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => maths
+                    [question] => kndlwk
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 2
+                )
+
+            [2] => Array
+                (
+                    [section_name] => maths
+                    [question] => 3e
+                    [option1] => .2we
+                    [option2] => e,.3mw
+                    [option3] => e2.,
+                    [option4] => e.,
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => t080
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => b190
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => w366
+                )
+
+        )
+
+    [exam_id] => 46
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Tags
+                    [question] => pktpo3kt
+                    [option1] => if
+                    [option2] => f,.ew
+                    [option3] => f,ē
+                    [option4] => fe
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => i054
+                )
+
+        )
+
+    [exam_id] => 50
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ,mnkqnsqk
+                    [option1] => we,
+                    [option2] => v,f
+                    [option3] => vf
+                    [option4] => vr̥
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => t436
+                )
+
+        )
+
+    [exam_id] => 51
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ifjeoif
+                    [option1] => 1
+                    [option2] => 1
+                    [option3] => 1
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english
+                    [question] => 2+0
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_name] => english
+                    [question] => 4
+                    [option1] => four
+                    [option2] => fourth
+                    [option3] => 4
+                    [option4] => none
+                    [correctanswer] => 1
+                )
+
+            [3] => Array
+                (
+                    [section_name] => english
+                    [question] => ,;l;lm;lf
+                    [option1] => 1
+                    [option2] => 1
+                    [option3] => 1
+                    [option4] => 1
+                    [correctanswer] => 1
+                )
+
+            [4] => Array
+                (
+                    [section_name] => html
+                    [question] => 'g.r
+                    [option1] => .e,
+                    [option2] => fr/.e
+                    [option3] => v/er.
+                    [option4] => vfr,.
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => i141
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => s723
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => m470
+                )
+
+        )
+
+    [exam_id] => 52
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => maths
+                    [question] => vlmdsldm
+                    [option1] => vc/,e
+                    [option2] => v/.er
+                    [option3] => ver
+                    [option4] => ;v,
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => h277
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => b773
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => s365
+                )
+
+        )
+
+    [exam_id] => 53
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ;,df
+                    [option1] => 11
+                    [option2] => 11
+                    [option3] => 11
+                    [option4] => 11
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => q415
+                )
+
+        )
+
+    [exam_id] => 54
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => wd., w
+                    [question] => dd,. w
+                    [option1] => d,.d
+                    [option2] => d,.ew
+                    [option3] => d/.e
+                    [option4] => d/e.
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => s409
+                )
+
+        )
+
+    [exam_id] => 55
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ufhu
+                    [option1] => ,maskn
+                    [option2] => cā,ś
+                    [option3] => x,n
+                    [option4] => cx,ns
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => v133
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => r402
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => a321
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => e574
+                )
+
+        )
+
+    [exam_id] => 56
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ,d c.,d
+                    [option1] => S?
+                    [option2] => c/ .ds
+                    [option3] => v/.dsv133ḍs
+                    [option4] => v/.d
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => e225
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => n599
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => g741
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => b330
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => j382
+                )
+
+        )
+
+    [exam_id] => 59
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => this is english
+                    [option1] => lsk
+                    [option2] => s.,
+                    [option3] => c.d,
+                    [option4] => cs.,
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => n353
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => p751
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => w124
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => v507
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => x602
+                )
+
+        )
+
+    [exam_id] => 60
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => eng
+                    [question] => eng
+                    [option1] => 11
+                    [option2] => 11
+                    [option3] => 11
+                    [option4] => 11
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => s633
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => e070
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => j157
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => f372
+                )
+
+        )
+
+    [exam_id] => 61
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => this is html
+                    [option1] => html
+                    [option2] => css
+                    [option3] => bootstrap
+                    [option4] => none
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => d004
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => d235
+                )
+
+        )
+
+    [exam_id] => 62
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => qs,m
+                    [option1] => 11
+                    [option2] => 11
+                    [option3] => 11
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => v824
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => g716
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => z042
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => y337
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => s417
+                )
+
+            [5] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => b065
+                )
+
+        )
+
+    [exam_id] => 63
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => knolewdege
+                    [question] => .kxnasklxjn
+                    [option1] => sz
+                    [option2] => xṁ,āśṣ
+                    [option3] => ,maxna,mx
+                    [option4] => m m x
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => skills
+                    [question] => md ,xnlx
+                    [option1] => /.x,
+                    [option2] => c.sa
+                    [option3] => c/.as
+                    [option4] => c.sa
+                    [correctanswer] => 2
+                )
+
+            [2] => Array
+                (
+                    [section_name] => english
+                    [question] => s/a.?Sca?
+                    [option1] => /as§AS
+                    [option2] => c.as c
+                    [option3] => ckasnc
+                    [option4] => csm dc
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => v331
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => d145
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => j102
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => z028
+                )
+
+        )
+
+    [exam_id] => 64
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => this is english book
+                    [option1] => maths
+                    [option2] => english
+                    [option3] => teligu
+                    [option4] => hindi
+                    [correctanswer] => 2
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english
+                    [question] => english: this is telugu book
+                    [option1] => english
+                    [option2] => this isbook
+                    [option3] => this is english book
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_name] => maths
+                    [question] => 2+2
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 4
+                )
+
+            [3] => Array
+                (
+                    [section_name] => hindi
+                    [question] => 3,enlk
+                    [option1] => .e2
+                    [option2] => e.3
+                    [option3] => el3j
+                    [option4] => r3lj
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => d965
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => v028
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => a859
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => b413
+                )
+
+        )
+
+    [exam_id] => 65
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => html&css
+                    [question] => HTML
+                    [option1] => HMTL
+                    [option2] => LTHM
+                    [option3] => MHLT
+                    [option4] => HTML
+                    [correctanswer] => 4
+                )
+
+            [1] => Array
+                (
+                    [section_name] => html&css
+                    [question] => w;r,fwa;
+                    [option1] => /ldmdm
+                    [option2] => dmdmd
+                    [option3] => d,d,
+                    [option4] => dmd
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_name] => html&css
+                    [question] => css
+                    [option1] => english
+                    [option2] => english
+                    [option3] => english
+                    [option4] => english
+                    [correctanswer] => 4
+                )
+
+            [3] => Array
+                (
+                    [section_name] => html&css
+                    [question] => maths
+                    [option1] => jhb2je
+                    [option2] => 2lefm
+                    [option3] => dqw,.
+                    [option4] => djj
+                    [correctanswer] => 3
+                )
+
+            [4] => Array
+                (
+                    [section_name] => html&css
+                    [question] => this is english
+                    [option1] => english
+                    [option2] => english
+                    [option3] => english
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [5] => Array
+                (
+                    [section_name] => html&css
+                    [question] => MATHS
+                    [option1] => english
+                    [option2] => english
+                    [option3] => english
+                    [option4] => MATHS
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => x663
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => e518
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => f233
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => s845
+                )
+
+        )
+
+    [exam_id] => 66
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english1
+                    [question] => jbsqja, c
+                    [option1] => c,md s
+                    [option2] => csā
+                    [option3] => śā
+                    [option4] => edjdh
+                    [correctanswer] => 3
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english1
+                    [question] => this is book
+                    [option1] => it is called as exa,m
+                    [option2] => it is called as sctoeks
+                    [option3] => asdfghjkl
+                    [option4] => uhjn
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => q019
+                )
+
+        )
+
+    [exam_id] => 67
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english1
+                    [question] => html
+                    [option1] => hyper text markup language
+                    [option2] => hyper
+                    [option3] => hyper model language
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english1
+                    [question] => english
+                    [option1] => english
+                    [option2] => english
+                    [option3] => english
+                    [option4] => english
+                    [correctanswer] => 3
+                )
+
+            [2] => Array
+                (
+                    [section_name] => english1
+                    [question] => english
+                    [option1] => english
+                    [option2] => english
+                    [option3] => english
+                    [option4] => english
+                    [correctanswer] => 3
+                )
+
+            [3] => Array
+                (
+                    [section_name] => english1
+                    [question] => 2+2
+                    [option1] => 1
+                    [option2] => 4
+                    [option3] => 3
+                    [option4] => 2
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => z226
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => h097
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => a126
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => v071
+                )
+
+        )
+
+    [exam_id] => 68
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => this is english book
+                    [option1] => 11
+                    [option2] => 11
+                    [option3] => 11
+                    [option4] => 11
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english
+                    [question] => 11
+                    [option1] => 11
+                    [option2] => 11
+                    [option3] => 11
+                    [option4] => 55
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => w724
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => g921
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => e993
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => h811
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => f192
+                )
+
+        )
+
+    [exam_id] => 69
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => html1
+                    [question] => r/.gfgv/.er
+                    [option1] => hyjk
+                    [option2] => jk
+                    [option3] => kl;rfvrrvr
+                    [option4] => rfr
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => html1
+                    [question] => fnfnfn
+                    [option1] => fcfjnm
+                    [option2] => fcerkf k
+                    [option3] => ,mv rkm
+                    [option4] => lfvfl
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => i898
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => b306
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => n608
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => a127
+                )
+
+        )
+
+    [exam_id] => 70
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => THIS IS ENGLISH BOOK
+                    [option1] => ENGLISH
+                    [option2] => ENGLISH
+                    [option3] => ENGLISH
+                    [option4] => ENGLISH
+                    [correctanswer] => 2
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english
+                    [question] => D.EWLMDKL
+                    [option1] => MEO
+                    [option2] => D;L,
+                    [option3] => FC;L
+                    [option4] => FELK
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => z936
+                )
+
+        )
+
+    [exam_id] => 71
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => maths
+                    [question] => lrfmv;l
+                    [option1] => vf,.
+                    [option2] => vf,.s
+                    [option3] => vdf,.
+                    [option4] => vfd.
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => u573
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => i427
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => j894
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => z098
+                )
+
+        )
+
+    [exam_id] => 72
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => html1
+                    [question] => this is english
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => t570
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => u983
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => v956
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => m963
+                )
+
+        )
+
+    [exam_id] => 73
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => this is likith
+                    [option1] => .wkdn
+                    [option2] => e,ś
+                    [option3] => ,.cdmc
+                    [option4] => dmsn
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => p989
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => r122
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => z302
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => l536
+                )
+
+        )
+
+    [exam_id] => 75
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => eng
+                    [question] => d,enf,.
+                    [option1] => f.,e
+                    [option2] => f,ew
+                    [option3] => fē
+                    [option4] => ē
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => w907
+                )
+
+        )
+
+    [exam_id] => 76
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => nmbcmqjn
+                    [question] => .,sc.,
+                    [option1] => dndnd
+                    [option2] => dndn
+                    [option3] => dmdmn
+                    [option4] => d, d
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => e442
+                )
+
+        )
+
+    [exam_id] => 77
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english1
+                    [question] => this is english book
+                    [option1] => yes
+                    [option2] => no
+                    [option3] => 1
+                    [option4] => 2
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english1
+                    [question] => How are you?
+                    [option1] => fine
+                    [option2] => not fine
+                    [option3] => good
+                    [option4] => bad
+                    [correctanswer] => 1
+                )
+
+            [2] => Array
+                (
+                    [section_name] => english1
+                    [question] => How many languages do you speak?
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 4
+                )
+
+            [3] => Array
+                (
+                    [section_name] => english1
+                    [question] => How much do you study English every day
+                    [option1] => 1hour
+                    [option2] => 2hours
+                    [option3] => 3hours
+                    [option4] => 4hours
+                    [correctanswer] => 2
+                )
+
+            [4] => Array
+                (
+                    [section_name] => english1
+                    [question] => What?
+                    [option1] => What are you doing in the evening?
+                    [option2] => Who did you meet last Sunday?
+                    [option3] => When are you going to buy a new phone?
+                    [option4] => Where are they having the party?
+                    [correctanswer] => 1
+                )
+
+            [5] => Array
+                (
+                    [section_name] => html1
+                    [question] => .knx.ak
+                    [option1] => xmasx.asm
+                    [option2] => s,ma
+                    [option3] => ,sam.,
+                    [option4] => .s,am
+                    [correctanswer] => 4
+                )
+
+            [6] => Array
+                (
+                    [section_name] => html1
+                    [question] => gvhbjknml
+                    [option1] => jbas
+                    [option2] => sam
+                    [option3] => s,m a
+                    [option4] => sa,m
+                    [correctanswer] => 4
+                )
+
+            [7] => Array
+                (
+                    [section_name] => html1
+                    [question] => ,. ads<>s
+                    [option1] => m asmsm
+                    [option2] => ,s
+                    [option3] => s,ā
+                    [option4] => xnxn
+                    [correctanswer] => 3
+                )
+
+            [8] => Array
+                (
+                    [section_name] => html1
+                    [question] => nsz,kanx.
+                    [option1] => ,xs
+                    [option2] => .x, as,.,ms ,am
+                    [option3] => , x,
+                    [option4] => .,s za,.
+                    [correctanswer] => 1
+                )
+
+            [9] => Array
+                (
+                    [section_name] => html1
+                    [question] => ,mxn,smna,m
+                    [option1] => ,ś a,
+                    [option2] => xmnxm
+                    [option3] => xmxm
+                    [option4] => xm
+                    [correctanswer] => 4
+                )
+
+            [10] => Array
+                (
+                    [section_name] => css
+                    [question] => css
+                    [option1] => ,anzA.
+                    [option2] => X ,M A,M
+                    [option3] => X,AMNX,MA
+                    [option4] => XA ,.
+                    [correctanswer] => 2
+                )
+
+            [11] => Array
+                (
+                    [section_name] => css
+                    [question] => INJLIL
+                    [option1] => LDML
+                    [option2] => CVFDMKLV
+                    [option3] => V.,DF. ,
+                    [option4] => V.DF
+                    [correctanswer] => 1
+                )
+
+            [12] => Array
+                (
+                    [section_name] => css
+                    [question] => V.DF, LC
+                    [option1] => V;L,DF;L
+                    [option2] => V.DF
+                    [option3] => VL DFL
+                    [option4] => V;,DF;
+                    [correctanswer] => 4
+                )
+
+            [13] => Array
+                (
+                    [section_name] => css
+                    [question] => V /DF. V,/.F.
+                    [option1] => V.DF;
+                    [option2] => V/DLF,L
+                    [option3] => V';.DFV
+                    [option4] => V/DF
+                    [correctanswer] => 4
+                )
+
+            [14] => Array
+                (
+                    [section_name] => css
+                    [question] => .F,D. LD,
+                    [option1] => /.DF;/ /F
+                    [option2] => ,FD;,D;
+                    [option3] => DF.,
+                    [option4] => DF. ;L
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => v158
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => a848
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => y613
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => l888
+                )
+
+        )
+
+    [exam_id] => 78
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english1
+                    [question] => lkmvldfkvmklsvml
+                    [option1] => s;lckods
+                    [option2] => v.fmld
+                    [option3] => vd;s,'
+                    [option4] => v /df.mlf
+                    [correctanswer] => 4
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english1
+                    [question] => ';,';3w,d'qw,;
+                    [option1] => d/.qw,d:
+                    [option2] => d?Wq.,:
+                    [option3] => d/.
+                    [option4] => fd?EW./
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_name] => english1
+                    [question] => cf.s,d/clds,
+                    [option1] => dc/as,;
+                    [option2] => csed,cv .d,
+                    [option3] => v/sd,/v.ds,v, s.d.zv/.ds
+                    [option4] => v/.sd/.
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => y907
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => f693
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => u724
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => m541
+                )
+
+        )
+
+    [exam_id] => 79
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => ENGLISH
+                    [question] => THIS BOOK
+                    [option1] => EXGLISH
+                    [option2] => MATHS
+                    [option3] => SCIENCE
+                    [option4] => SOCIAL
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => o453
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => g643
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => h487
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => w612
+                )
+
+        )
+
+    [exam_id] => 80
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ghjkl
+                    [option1] => thisisbook
+                    [option2] => thisisenglish
+                    [option3] => thisismaths
+                    [option4] => thisissocial
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => e090
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => x896
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => i877
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => q743
+                )
+
+        )
+
+    [exam_id] => 81
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => this is likhith
+                    [option1] => qwertyu
+                    [option2] => asdfghj
+                    [option3] => cvb
+                    [option4] => fgh
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => c874
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => q221
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => u022
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => g464
+                )
+
+        )
+
+    [exam_id] => 82
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => this is nbook
+                    [option1] => this
+                    [option2] => is
+                    [option3] => book
+                    [option4] => none
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => q935
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => w767
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => y531
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => r089
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => w640
+                )
+
+        )
+
+    [exam_id] => 83
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => this is book
+                    [option1] => english
+                    [option2] => maths
+                    [option3] => telugu
+                    [option4] => hindi
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => v504
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => w799
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => f733
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => z164
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => t312
+                )
+
+        )
+
+    [exam_id] => 84
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => mdencne
+                    [option1] => sndbd
+                    [option2] => dskddk
+                    [option3] => d,mnw,kqd
+                    [option4] => dbwjq
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english
+                    [question] => ,dsn,amxn,
+                    [option1] => X ASN
+                    [option2] => X AZMṢ
+                    [option3] => C SZXM
+                    [option4] => CṢZ
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_name] => english
+                    [question] => X NNAS XMASN
+                    [option1] => X MASMX
+                    [option2] => THIS IS LIKHITHSA.SKL,ṀSNCC
+                    [option3] => X MBAS
+                    [option4] => XN,SMA,
+                    [correctanswer] => 4
+                )
+
+            [3] => Array
+                (
+                    [section_name] => english
+                    [question] => X MASMXASM
+                    [option1] => M XMS MṢS
+                    [option2] => XBCBHDDH
+                    [option3] => DCNCBDB
+                    [option4] => CNDNCN
+                    [correctanswer] => 4
+                )
+
+            [4] => Array
+                (
+                    [section_name] => english
+                    [question] => CXNDXNND
+                    [option1] => CX C CMMC
+                    [option2] => XNDXNNNX
+                    [option3] => DEKEKWS
+                    [option4] => EDMDE,
+                    [correctanswer] => 4
+                )
+
+            [5] => Array
+                (
+                    [section_name] => hindi
+                    [question] => ZNA.KZSM.KA
+                    [option1] => VBNM
+                    [option2] => BNM
+                    [option3] => VBNM,
+                    [option4] => CFVB
+                    [correctanswer] => 4
+                )
+
+            [6] => Array
+                (
+                    [section_name] => hindi
+                    [question] => ZZSDFGHJ
+                    [option1] => THISISBOOK
+                    [option2] => DWLKDLEW
+                    [option3] => SQBJHWSBQWHJ
+                    [option4] => SDFGH
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => c988
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => y361
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => r249
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => a450
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => u730
+                )
+
+        )
+
+    [exam_id] => 85
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => jniu
+                    [option1] => hubgh
+                    [option2] => b
+                    [option3] => hjbhju
+                    [option4] => bu
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => r837
+                )
+
+        )
+
+    [exam_id] => 86
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => njkbnvibs
+                    [option1] => ub
+                    [option2] => ub
+                    [option3] => hb
+                    [option4] => hb
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => k926
+                )
+
+        )
+
+    [exam_id] => 86
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => njkbnvibs
+                    [option1] => ub
+                    [option2] => ub
+                    [option3] => hb
+                    [option4] => hb
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => english
+                    [question] => /,knd,k
+                    [option1] => .,dm
+                    [option2] => ,md
+                    [option3] => ,dne
+                    [option4] => ef.,
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => i726
+                )
+
+        )
+
+    [exam_id] => 86
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ,mnax
+                    [option1] => lej
+                    [option2] => lkjd,kencfl
+                    [option3] => lvel
+                    [option4] => rfk
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => b478
+                )
+
+        )
+
+    [exam_id] => 86
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ,mnax
+                    [option1] => lej
+                    [option2] => lkjd,kencfl
+                    [option3] => lvel
+                    [option4] => rfk
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => z447
+                )
+
+        )
+
+    [exam_id] => 86
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ,mnax
+                    [option1] => lej
+                    [option2] => lkjd,kencfl
+                    [option3] => lvel
+                    [option4] => rfk
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => o489
+                )
+
+        )
+
+    [exam_id] => 86
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ,qkjhskl
+                    [option1] => s,nqwk
+                    [option2] => dx,mesn,
+                    [option3] => xd s,
+                    [option4] => x ms
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => p022
+                )
+
+        )
+
+    [exam_id] => 86
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => english
+                    [question] => ,qkjhskl
+                    [option1] => s,nqwk
+                    [option2] => dx,mesn,
+                    [option3] => xd s,
+                    [option4] => x ms
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => v535
+                )
+
+        )
+
+    [exam_id] => 86
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => lmkw;ld
+                    [option1] => bnm
+                    [option2] => vgvb
+                    [option3] => ,m
+                    [option4] => cvb
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => l472
+                )
+
+        )
+
+    [exam_id] => 86
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                            [2] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => .ksckl
+                    [option1] => xkwasn,mxs,
+                    [option2] => x.,smak.as
+                    [option3] => cx.n,sman.as,
+                    [option4] => cas.
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                            [2] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => .,a
+                    [option1] => vbnm
+                    [option2] => bn
+                    [option3] => x nm
+                    [option4] => vbnm
+                    [correctanswer] => 2
+                )
+
+            [2] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                            [2] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => vbnm,
+                    [option1] => nm,
+                    [option2] => bnm,
+                    [option3] => jkl
+                    [option4] => ghnjm
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => c335
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => f143
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => k083
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => z045
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => p787
+                )
+
+        )
+
+    [exam_id] => 87
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => 2+2
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 4
+                )
+
+            [1] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => mn,jnbkj
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 5
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => h674
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => g165
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => o826
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => z724
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => u303
+                )
+
+        )
+
+    [exam_id] => 88
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => వీటిని ఉచితంగా డౌన్‌లోడ్ చేసుకోండి సూచనలు
+                    [option1] => d'ew
+                    [option2] => d.,ew,.
+                    [option3] => d/lwe;
+                    [option4] => d.ew
+                    [correctanswer] => 4
+                )
+
+            [1] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => this si book
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => sdefrghjk
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => b036
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => s580
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => n222
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => y579
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => u457
+                )
+
+        )
+
+    [exam_id] => 89
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => this is english book
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 4
+                    [option4] => q
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => wertghyjkl
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 1
+                )
+
+            [2] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => dfghjkl
+                    [option1] => h
+                    [option2] => k
+                    [option3] => i
+                    [option4] => gfy
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => k736
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => g398
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => g155
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => s010
+                )
+
+        )
+
+    [exam_id] => 90
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => tfrghjkl,;.'/
+                    [option1] => fgh
+                    [option2] => vb
+                    [option3] => ghjgh
+                    [option4] => g
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => frtgvbhjkl,;'./
+                    [option1] => km
+                    [option2] => ghjk
+                    [option3] => hjk
+                    [option4] => bnm
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => bnm,./
+                    [option1] => nm,
+                    [option2] => nm,.
+                    [option3] => bnm,
+                    [option4] => bnm,
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => o682
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => n492
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => y123
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => i883
+                )
+
+        )
+
+    [exam_id] => 91
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => dxfcgvhbjnm,./
+                    [option1] => vbnm,.
+                    [option2] => ghjkl;
+                    [option3] => ghjkl
+                    [option4] => hjk
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => fghjkl
+                    [option1] => fghjkl;
+                    [option2] => fghjkl
+                    [option3] => fghjkl;
+                    [option4] => ghjkl;
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => r086
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => x159
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => n145
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => o734
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => s044
+                )
+
+        )
+
+    [exam_id] => 92
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => DERTFHKL;.'
+                    [option1] => NJ
+                    [option2] => N
+                    [option3] => NK
+                    [option4] => N
+                    [correctanswer] => 4
+                )
+
+            [1] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => ESDRTFGYHUIJKL;.'/
+                    [option1] => JK
+                    [option2] => JK
+                    [option3] => J
+                    [option4] => KJK
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => CVBNM,.
+                    [option1] => ,
+                    [option2] => JKL
+                    [option3] => HJKL
+                    [option4] => JKL
+                    [correctanswer] => 4
+                )
+
+            [3] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => DFRGTHYUI
+                    [option1] => HYJ
+                    [option2] => GH
+                    [option3] => HJ
+                    [option4] => H
+                    [correctanswer] => 4
+                )
+
+            [4] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => GHJKL;'
+                    [option1] => K
+                    [option2] => K
+                    [option3] => K
+                    [option4] => K
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 1
+                    [passkey_n] => w853
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => v713
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => c517
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => b611
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => f933
+                )
+
+        )
+
+    [exam_id] => 93
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                            [2] => Array
+                                (
+                                )
+
+                            [3] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => xcvbnm
+                    [option1] => vbnm
+                    [option2] => vbnm
+                    [option3] => bnm
+                    [option4] => vbnm
+                    [correctanswer] => 3
+                )
+
+            [1] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                            [2] => Array
+                                (
+                                )
+
+                            [3] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => fghjkl
+                    [option1] => gh,
+                    [option2] => ghjk,l
+                    [option3] => ghjk,l
+                    [option4] => hjkl
+                    [correctanswer] => 3
+                )
+
+            [2] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                            [2] => Array
+                                (
+                                )
+
+                            [3] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => nm,
+                    [option1] => ml
+                    [option2] => kl
+                    [option3] => jk
+                    [option4] => j
+                    [correctanswer] => 3
+                )
+
+            [3] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                            [2] => Array
+                                (
+                                )
+
+                            [3] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => bnm
+                    [option1] => bnm
+                    [option2] => bnm
+                    [option3] => bn
+                    [option4] => bnm
+                    [correctanswer] => 2
+                )
+
+            [4] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                            [2] => Array
+                                (
+                                )
+
+                            [3] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => ghyjuk
+                    [option1] => hjkl
+                    [option2] => hj
+                    [option3] => khjk
+                    [option4] => hjk
+                    [correctanswer] => 2
+                )
+
+            [5] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                            [2] => Array
+                                (
+                                )
+
+                            [3] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => ghjkl;'
+                    [option1] => jkl;
+                    [option2] => hjkl
+                    [option3] => hjkl
+                    [option4] => jkl
+                    [correctanswer] => 2
+                )
+
+            [6] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                            [2] => Array
+                                (
+                                )
+
+                            [3] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => hjkl
+                    [option1] => ghj
+                    [option2] => bjhj
+                    [option3] => khjk
+                    [option4] => hjk
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => u737
+                )
+
+        )
+
+    [exam_id] => 94
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => DRTFGYUIH;'
+                    [option1] => GHJK,L.;/m,
+                    [option2] => bnm,.
+                    [option3] => bnm,
+                    [option4] => nm,
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => dfghjkl;
+                    [option1] => fvghjk
+                    [option2] => fghj
+                    [option3] => ghjkl
+                    [option4] => hjk
+                    [correctanswer] => 2
+                )
+
+            [2] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => dfghjkl;/
+                    [option1] => vbnm,.
+                    [option2] => vbnm,.
+                    [option3] => vbnm,.
+                    [option4] => bnm,
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => d027
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => u900
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 12
+                    [passkey_n] => z997
+                )
+
+        )
+
+    [exam_id] => 95
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => ekj3hri3iorjijr3j32oljo
+                    [option1] => lfj4il
+                    [option2] => wldl
+                    [option3] => lkdl
+                    [option4] => lwk
+                    [correctanswer] => 2
+                )
+
+            [1] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => 2nv4djh4bjhb
+                    [option1] => kjk
+                    [option2] => h
+                    [option3] => kj
+                    [option4] => kjb
+                    [correctanswer] => 1
+                )
+
+            [2] => Array
+                (
+                    [section_name] => Array
+                        (
+                            [0] => Array
+                                (
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                    [question] => gfxcvhjbknlm;,'.
+                    [option1] => fcgvhj
+                    [option2] => n
+                    [option3] => vhbjnk
+                    [option4] => vhbjn
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 13
+                    [passkey_n] => y675
+                )
+
+        )
+
+    [exam_id] => 96
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 123
+                    [section_name] => 1
+                    [question] => 1+2
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 3
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 123
+                    [section_name] => 1
+                    [question] => 2+9
+                    [option1] => 9
+                    [option2] => 8
+                    [option3] => 7
+                    [option4] => 11
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 124
+                    [section_name] => 2
+                    [question] => 2-2
+                    [option1] => 0
+                    [option2] => 1
+                    [option3] => 2
+                    [option4] => 3
+                    [correctanswer] => 1
+                )
+
+            [3] => Array
+                (
+                    [section_id] => 124
+                    [section_name] => 2
+                    [question] => 2-9
+                    [option1] => 0
+                    [option2] => 0
+                    [option3] => 0
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [4] => Array
+                (
+                    [section_id] => 125
+                    [section_name] => 3
+                    [question] => 3*3
+                    [option1] => 9
+                    [option2] => 6
+                    [option3] => 5
+                    [option4] => 4
+                    [correctanswer] => 1
+                )
+
+            [5] => Array
+                (
+                    [section_id] => 125
+                    [section_name] => 3
+                    [question] => 3*8
+                    [option1] => 24
+                    [option2] => 25
+                    [option3] => 26
+                    [option4] => 28
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 16
+                    [passkey_n] => b690
+                )
+
+        )
+
+    [exam_id] => 97
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 123
+                    [section_name] => 1
+                    [question] => 1+2
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 3
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 123
+                    [section_name] => 1
+                    [question] => 2+9
+                    [option1] => 9
+                    [option2] => 8
+                    [option3] => 7
+                    [option4] => 11
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 124
+                    [section_name] => 2
+                    [question] => 2-2
+                    [option1] => 0
+                    [option2] => 1
+                    [option3] => 2
+                    [option4] => 3
+                    [correctanswer] => 1
+                )
+
+            [3] => Array
+                (
+                    [section_id] => 124
+                    [section_name] => 2
+                    [question] => 2-9
+                    [option1] => 0
+                    [option2] => 0
+                    [option3] => 0
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [4] => Array
+                (
+                    [section_id] => 125
+                    [section_name] => 3
+                    [question] => 3*3
+                    [option1] => 9
+                    [option2] => 6
+                    [option3] => 5
+                    [option4] => 4
+                    [correctanswer] => 1
+                )
+
+            [5] => Array
+                (
+                    [section_id] => 125
+                    [section_name] => 3
+                    [question] => 3*8
+                    [option1] => 24
+                    [option2] => 25
+                    [option3] => 26
+                    [option4] => 28
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 16
+                    [passkey_n] => c234
+                )
+
+        )
+
+    [exam_id] => 97
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 123
+                    [section_name] => 1
+                    [question] => 1+2
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 3
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 123
+                    [section_name] => 1
+                    [question] => 2+9
+                    [option1] => 9
+                    [option2] => 8
+                    [option3] => 7
+                    [option4] => 11
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 124
+                    [section_name] => 2
+                    [question] => 2-2
+                    [option1] => 0
+                    [option2] => 1
+                    [option3] => 2
+                    [option4] => 3
+                    [correctanswer] => 1
+                )
+
+            [3] => Array
+                (
+                    [section_id] => 124
+                    [section_name] => 2
+                    [question] => 2-9
+                    [option1] => 0
+                    [option2] => 0
+                    [option3] => 0
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [4] => Array
+                (
+                    [section_id] => 125
+                    [section_name] => 3
+                    [question] => 3*3
+                    [option1] => 9
+                    [option2] => 6
+                    [option3] => 5
+                    [option4] => 4
+                    [correctanswer] => 1
+                )
+
+            [5] => Array
+                (
+                    [section_id] => 125
+                    [section_name] => 3
+                    [question] => 3*8
+                    [option1] => 24
+                    [option2] => 25
+                    [option3] => 26
+                    [option4] => 28
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 15
+                    [passkey_n] => e410
+                )
+
+        )
+
+    [exam_id] => 97
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 123
+                    [section_name] => 1
+                    [question] => 1+2
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 3
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 123
+                    [section_name] => 1
+                    [question] => 2+9
+                    [option1] => 9
+                    [option2] => 8
+                    [option3] => 7
+                    [option4] => 11
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 124
+                    [section_name] => 2
+                    [question] => 2-2
+                    [option1] => 0
+                    [option2] => 1
+                    [option3] => 2
+                    [option4] => 3
+                    [correctanswer] => 1
+                )
+
+            [3] => Array
+                (
+                    [section_id] => 124
+                    [section_name] => 2
+                    [question] => 2-9
+                    [option1] => 0
+                    [option2] => 0
+                    [option3] => 0
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [4] => Array
+                (
+                    [section_id] => 125
+                    [section_name] => 3
+                    [question] => 3*3
+                    [option1] => 9
+                    [option2] => 6
+                    [option3] => 5
+                    [option4] => 4
+                    [correctanswer] => 1
+                )
+
+            [5] => Array
+                (
+                    [section_id] => 125
+                    [section_name] => 3
+                    [question] => 3*8
+                    [option1] => 24
+                    [option2] => 25
+                    [option3] => 26
+                    [option4] => 28
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => g375
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => z857
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => q420
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => y838
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => y176
+                )
+
+            [5] => Array
+                (
+                    [registration_id] => 12
+                    [passkey_n] => i444
+                )
+
+            [6] => Array
+                (
+                    [registration_id] => 13
+                    [passkey_n] => b610
+                )
+
+            [7] => Array
+                (
+                    [registration_id] => 14
+                    [passkey_n] => h466
+                )
+
+            [8] => Array
+                (
+                    [registration_id] => 15
+                    [passkey_n] => k216
+                )
+
+            [9] => Array
+                (
+                    [registration_id] => 16
+                    [passkey_n] => r686
+                )
+
+        )
+
+    [exam_id] => 97
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 123
+                    [section_name] => 1
+                    [question] => 1+2
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 3
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 123
+                    [section_name] => 1
+                    [question] => 2+9
+                    [option1] => 9
+                    [option2] => 8
+                    [option3] => 7
+                    [option4] => 11
+                    [correctanswer] => 4
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 124
+                    [section_name] => 2
+                    [question] => 2-2
+                    [option1] => 0
+                    [option2] => 1
+                    [option3] => 2
+                    [option4] => 3
+                    [correctanswer] => 1
+                )
+
+            [3] => Array
+                (
+                    [section_id] => 124
+                    [section_name] => 2
+                    [question] => 2-9
+                    [option1] => 0
+                    [option2] => 0
+                    [option3] => 0
+                    [option4] => none
+                    [correctanswer] => 4
+                )
+
+            [4] => Array
+                (
+                    [section_id] => 125
+                    [section_name] => 3
+                    [question] => 3*3
+                    [option1] => 9
+                    [option2] => 6
+                    [option3] => 5
+                    [option4] => 4
+                    [correctanswer] => 1
+                )
+
+            [5] => Array
+                (
+                    [section_id] => 125
+                    [section_name] => 3
+                    [question] => 3*8
+                    [option1] => 24
+                    [option2] => 25
+                    [option3] => 26
+                    [option4] => 28
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 2
+                    [passkey_n] => a006
+                )
+
+            [1] => Array
+                (
+                    [registration_id] => 3
+                    [passkey_n] => g275
+                )
+
+            [2] => Array
+                (
+                    [registration_id] => 9
+                    [passkey_n] => q760
+                )
+
+            [3] => Array
+                (
+                    [registration_id] => 10
+                    [passkey_n] => l515
+                )
+
+            [4] => Array
+                (
+                    [registration_id] => 11
+                    [passkey_n] => a996
+                )
+
+            [5] => Array
+                (
+                    [registration_id] => 12
+                    [passkey_n] => l055
+                )
+
+            [6] => Array
+                (
+                    [registration_id] => 13
+                    [passkey_n] => u610
+                )
+
+            [7] => Array
+                (
+                    [registration_id] => 14
+                    [passkey_n] => e756
+                )
+
+            [8] => Array
+                (
+                    [registration_id] => 15
+                    [passkey_n] => c409
+                )
+
+            [9] => Array
+                (
+                    [registration_id] => 16
+                    [passkey_n] => q237
+                )
+
+        )
+
+    [exam_id] => 97
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 126
+                    [section_name] => eng
+                    [question] => dld
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 1
+                    [option4] => 2
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 126
+                    [section_name] => eng
+                    [question] => smdkl
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 2
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 127
+                    [section_name] => tel
+                    [question] => d,km
+                    [option1] => 5
+                    [option2] => 4
+                    [option3] => 6
+                    [option4] => 2
+                    [correctanswer] => 1
+                )
+
+            [3] => Array
+                (
+                    [section_id] => 128
+                    [section_name] => mat
+                    [question] => dkjndkjn
+                    [option1] => 5
+                    [option2] => 1
+                    [option3] => 4
+                    [option4] => 4
+                    [correctanswer] => 4
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 16
+                    [passkey_n] => c519
+                )
+
+        )
+
+    [exam_id] => 98
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 126
+                    [section_name] => eng
+                    [question] => dld
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 1
+                    [option4] => 2
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 126
+                    [section_name] => eng
+                    [question] => smdkl
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 2
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 127
+                    [section_name] => tel
+                    [question] => d,km
+                    [option1] => 5
+                    [option2] => 4
+                    [option3] => 6
+                    [option4] => 2
+                    [correctanswer] => 1
+                )
+
+            [3] => Array
+                (
+                    [section_id] => 128
+                    [section_name] => mat
+                    [question] => dkjndkjn
+                    [option1] => 5
+                    [option2] => 1
+                    [option3] => 4
+                    [option4] => 4
+                    [correctanswer] => 4
+                )
+
+            [4] => Array
+                (
+                    [section_id] => 128
+                    [section_name] => mat
+                    [question] => dkmld
+                    [option1] => 1
+                    [option2] => 233
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 16
+                    [passkey_n] => s685
+                )
+
+        )
+
+    [exam_id] => 98
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 126
+                    [section_name] => eng
+                    [question] => dld
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 1
+                    [option4] => 2
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 126
+                    [section_name] => eng
+                    [question] => smdkl
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 2
+                )
+
+            [2] => Array
+                (
+                    [section_id] => 127
+                    [section_name] => tel
+                    [question] => d,km
+                    [option1] => 5
+                    [option2] => 4
+                    [option3] => 6
+                    [option4] => 2
+                    [correctanswer] => 1
+                )
+
+            [3] => Array
+                (
+                    [section_id] => 128
+                    [section_name] => mat
+                    [question] => dkjndkjn
+                    [option1] => 5
+                    [option2] => 1
+                    [option3] => 4
+                    [option4] => 4
+                    [correctanswer] => 4
+                )
+
+            [4] => Array
+                (
+                    [section_id] => 128
+                    [section_name] => mat
+                    [question] => dkmld
+                    [option1] => 1
+                    [option2] => 233
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 2
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 16
+                    [passkey_n] => u840
+                )
+
+        )
+
+    [exam_id] => 98
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 126
+                    [question] => m;ldm2
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 4
+                    [option4] => 5
+                    [correctanswer] => 3
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 16
+                    [passkey_n] => t989
+                )
+
+        )
+
+    [exam_id] => 98
+)
+Array
+(
+    [questions] => Array
+        (
+            [0] => Array
+                (
+                    [section_id] => 129
+                    [question] => ejoue
+                    [option1] => 1
+                    [option2] => 2
+                    [option3] => 3
+                    [option4] => 4
+                    [correctanswer] => 1
+                )
+
+            [1] => Array
+                (
+                    [section_id] => 129
+                    [question] => kjnj
+                    [option1] => 2
+                    [option2] => 5
+                    [option3] => 8
+                    [option4] => 6
+                    [correctanswer] => 1
+                )
+
+        )
+
+    [userPasskeys] => Array
+        (
+            [0] => Array
+                (
+                    [registration_id] => 16
+                    [passkey_n] => g241
+                )
+
+        )
+
+    [exam_id] => 99
+)

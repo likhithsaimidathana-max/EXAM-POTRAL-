@@ -1,0 +1,137 @@
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Create New Exam</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary px-4">
+  <a class="navbar-brand" href="#">Exam Portal - Admin</a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#adminNavbar" aria-controls="adminNavbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="adminNavbar">
+    <ul class="navbar-nav ms-auto">
+      <li class="nav-item">
+        <a class="nav-link text-white" href="dashboard.php">Dashboard</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#">Create Exam</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#">Add Questions</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#">View Exams</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-danger" href="login.php">Logout</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container mt-5">
+    <h3 class="text-center mb-4">📝 Create New Exam</h3>
+    
+    <form>
+      <div class="mb-3">
+        <label for="examTitle" class="form-label">Exam Title</label>
+        <input type="text" class="form-control" id="examtitle" name="examtitle" placeholder="Enter exam title">
+      </div>
+
+      <div class="mb-3">
+        <label for="examDesc" class="form-label">Exam Description</label>
+        <textarea class="form-control" id="examdescription" name="examdescription" rows="3" placeholder="Enter exam description"></textarea>
+      </div>
+
+      <div class="row mb-3">
+        <div class="col-md-6">
+          <label for="examDate" class="form-label">Exam Date</label>
+          <input type="date" class="form-control" id="examdate" name="examdate">
+        </div>
+        <div class="col-md-6">
+          <label for="examTime" class="form-label">Exam Time</label>
+          <input type="time" class="form-control" id="examtime" name="examtime">
+        </div>
+      </div>
+
+      <div class="mb-3">
+        <label for="duration" class="form-label">Duration (in minutes)</label>
+        <input type="number" class="form-control" id="duration" name="duration" placeholder="Enter duration">
+      </div>
+
+      <div class="row mb-3">
+        <div class="col-md-6">
+          <label for="graceStart" class="form-label">Grace Start Time</label>
+          <input type="datetime-local" class="form-control" id="gracestart" name="gracestart">
+        </div>
+        <div class="col-md-6">
+          <label for="graceEnd" class="form-label">Grace End Time</label>
+          <input type="datetime-local" class="form-control" id="graceend" name="graceend">
+        </div>
+      </div>    
+      <!-- sections and questions  -->
+<div class="container mt-5">
+  <h5 class="mt-4">📘 Sections</h5>
+  <div id="sections-container">
+    <!-- First section row -->
+    <div class="row mb-3 section-row">
+      <div class="col-md-6">
+        <input type="text" class="form-control" id="sections" name="sections"  placeholder="Section Name">
+      </div>
+      <div class="col-md-4">
+        <input type="number" class="form-control" id="noofquestions" name="noofquestions" placeholder="No. of Questions">
+      </div>
+      <div class="col-md-2">
+        <button type="button" class="btn btn-danger w-100 remove-section">X</button>
+      </div>
+    </div>
+  </div>
+  <button type="button" class="btn btn-primary" id="add-section"> Add Section</button>
+</div>
+
+<script>
+  // When 'Add Section' button is clicked
+  document.getElementById('add-section').addEventListener('click', function () {
+    const container = document.getElementById('sections-container');
+    
+    const newSection = document.createElement('div');
+    newSection.classList.add('row', 'mb-3', 'section-row');
+    newSection.innerHTML = `
+      <div class="col-md-6">
+        <input type="text" class="form-control" name="sections[]" placeholder="Section Name">
+      </div>
+      <div class="col-md-4">
+        <input type="number" class="form-control" name="noofquestions[]" placeholder="No. of Questions">
+      </div>
+      <div class="col-md-2">
+        <button type="button" class="btn btn-danger w-100 remove-section">X</button>
+      </div>
+    `;
+    container.appendChild(newSection);
+  });
+
+  // Use event delegation to remove section rows
+  document.getElementById('sections-container').addEventListener('click', function (e) {
+    if (e.target && e.target.classList.contains('remove-section')) {
+      const sectionRow = e.target.closest('.section-row');
+      if (sectionRow) {
+        sectionRow.remove();
+      }
+    }
+  });
+</script>
+        
+        
+
+  </form>
+<button type="submit"  class="btn btn-primary w-100 mt-5">create questions </button>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
